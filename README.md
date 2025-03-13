@@ -21,6 +21,9 @@ simply download the following weights and paste into RESR/weights:
 RealESRGAN_x4plus.pth
 RealESRGAN_x4plus_anime_6B.pth
 
+I am currently working on making the inputs dynamic in nature. Right now the path of folders is hardcoded into the scripts.
+Please change the paths according to your system directory to ensure that it works correctly.
+
 also download the following and paste into the RIFE/train_log folder:
 flownet.pkl
 IFNet_HDv3.py
