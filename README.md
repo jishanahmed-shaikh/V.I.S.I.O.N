@@ -14,5 +14,18 @@ https://github.com/hzwer/ECCV2022-RIFE
 I will try my best to upload everything in such a manner that this becomes a quick download and run project along with all necessary and generalized Documentation!
 Along with any issues that I faced in the time I built this project.
 
-If anyone has any issues. You may reach out to me at: kaiser.mn2003@gmail.com
+Link to Weights:
+https://drive.google.com/drive/folders/1FsvxalXW-f3zsypSa8n8r0hq7SNhFO0M?usp=drive_link
+
+simply download the following weights and paste into RESR/weights:
+RealESRGAN_x4plus.pth
+RealESRGAN_x4plus_anime_6B.pth
+
+also download the following and paste into the RIFE/train_log folder:
+flownet.pkl
+IFNet_HDv3.py
+refine.py
+RIFE_HDv3.py
+
+If anyone has any issues. You may reach out to me at: kaiser.momin47@gmail.com
 
