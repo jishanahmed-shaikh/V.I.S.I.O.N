@@ -1,0 +1,23 @@
+# RIFE Frame Interpolation Requirements
+
+# Core PyTorch
+torch>=1.7.0
+torchvision>=0.8.0
+
+# Computer Vision & Video Processing
+opencv-python>=4.5.0
+numpy>=1.19.0
+scikit-video>=1.1.11
+
+# Audio/Video Processing
+moviepy>=1.0.3
+ffmpeg-python>=0.2.0
+
+# Progress Tracking
+tqdm>=4.62.0
+
+# Image Quality Metrics
+scikit-image>=0.18.0
+
+# Utilities (built-in modules)
+# argparse, os, warnings, queue, threading are part of Python standard library

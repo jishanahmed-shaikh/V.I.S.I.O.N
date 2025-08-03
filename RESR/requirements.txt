@@ -1,0 +1,33 @@
+# Real-ESRGAN Super-Resolution Requirements
+
+# Core PyTorch
+torch>=1.7.0
+torchvision>=0.8.0
+
+# Computer Vision & Image Processing
+opencv-python>=4.5.0
+Pillow>=8.0.0
+numpy>=1.19.0
+
+# Real-ESRGAN Specific
+basicsr>=1.4.0
+realesrgan>=0.3.0
+facexlib>=0.2.5
+gfpgan>=1.3.0
+
+# Image Quality Metrics
+scikit-image>=0.18.0
+lpips>=0.1.4
+
+# Video Processing
+imageio>=2.9.0
+imageio-ffmpeg>=0.4.0
+
+# Data Analysis
+pandas>=1.3.0
+
+# Progress Bars
+tqdm>=4.62.0
+
+# Utilities (built-in modules)
+# argparse, glob, os, subprocess are part of Python standard library
