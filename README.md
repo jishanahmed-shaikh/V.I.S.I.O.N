@@ -2,6 +2,7 @@
 
 <div align="center">
   <img src="VISION.png" alt="NeonPulse Logo" width="120" height="120">
+
 **V**ideo **I**nterpolation & **S**uper-Resolution for **I**ntelligent **O**ptimization in **N**eural Processing
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
