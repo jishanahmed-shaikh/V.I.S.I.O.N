@@ -1,7 +1,7 @@
 # 🎬 V.I.S.I.O.N
 
 <div align="center">
-  <img src="VISION.png" alt="NeonPulse Logo" width="120" height="120">
+  <img src="VISION.png" alt="NeonPulse Logo" width="180" height="180">
 
 **V**ideo **I**nterpolation & **S**uper-Resolution for **I**ntelligent **O**ptimization in **N**eural Processing
 
