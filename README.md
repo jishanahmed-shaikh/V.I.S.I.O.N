@@ -1,10 +1,13 @@
 # 🎬 V.I.S.I.O.N
 
+<div align="center">
+  <img src="VISION.png" alt="NeonPulse Logo" width="120" height="120">
 **V**ideo **I**nterpolation & **S**uper-Resolution for **I**ntelligent **O**ptimization in **N**eural Processing
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.7+-red.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+</div>
 
 > 🚧 **Work in Progress**: This project is actively being developed and optimized. We're working hard to make it a seamless download-and-run experience!
 
