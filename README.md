@@ -3,7 +3,7 @@
 <div align="center">
   <img src="VISION.png" alt="NeonPulse Logo" width="180" height="180">
 
-**V**ideo **I**nterpolation & **S**uper-Resolution for **I**ntelligent **O**ptimization in **N**eural Processing
+**Video Interpolation & Super-Resolution for Intelligent Optimization in Neural Processing**
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.7+-red.svg)](https://pytorch.org/)
