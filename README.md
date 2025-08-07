@@ -1,4 +1,7 @@
+<div align="center">
+
 # 🎬 V.I.S.I.O.N 👁️
+</div>
 
 <div align="center">
   <img src="VISION.png" alt="NeonPulse Logo" width="250" height="250">
